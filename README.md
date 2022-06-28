@@ -1,0 +1,1 @@
+# GraphQL-Mangadex-wrapper
